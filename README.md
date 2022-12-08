@@ -50,7 +50,7 @@ Python 库：requests、PIL
 
    - eagle_data_count：Eagle 目标文件夹的文件数，若不指定文件夹则值设置为 `""`
 
-     ![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/mYa7Sq20211229232003.jpg](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/mYa7Sq20211229232003.jpg)
+     ![](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/CleanShot2022-12-0818.22.3820221208182309.png)
 
    - folders_id：上述文件夹的 ID
 

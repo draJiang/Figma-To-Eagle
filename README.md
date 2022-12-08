@@ -75,11 +75,11 @@ Python 库：requests、PIL
 
      在 Figma 首页选中目标团队后从 URL 中获取
 
-     ![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20211229182204.png](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20211229182204.png)
+     ![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/CleanShot2022-12-0818.19.2820221208182029.png](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/CleanShot2022-12-0818.19.2820221208182029.png)
 
    - figma_token：Figma > 右上角头像 > 设置 > 创建 Token
 
-     ![https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20211229182415.png](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20211229182415.png)
+     ![](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/CleanShot2022-12-0818.21.0720221208182147.png)
 
    - main_path：本地路径，从 Figma 中下载的文件封面将保存在这里
 
